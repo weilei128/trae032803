@@ -1,0 +1,20 @@
+# 双色球数据分析工具依赖
+# 安装命令: pip install -r requirements.txt
+
+# 网络请求库，用于获取开奖数据
+requests>=2.31.0
+
+# 数据可视化库，用于绘制图表
+matplotlib>=3.7.0
+
+# 数据处理库，用于数据分析
+pandas>=2.0.0
+
+# PDF生成库，用于生成分析报告
+reportlab>=4.0.0
+
+# 数值计算库
+numpy>=1.24.0
+
+# 图像处理库，用于PDF中的图片处理
+Pillow>=10.0.0

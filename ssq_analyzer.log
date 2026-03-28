@@ -1,0 +1,28 @@
+2026-03-28 16:26:02,967 - INFO - 使用模拟数据模式
+2026-03-28 16:26:02,968 - INFO - 生成 500 期模拟数据用于演示
+2026-03-28 16:26:03,034 - INFO - 分析器初始化完成，共 500 期数据
+2026-03-28 16:26:03,049 - INFO - 开始生成图表...
+2026-03-28 16:26:06,325 - INFO - 图表已保存: charts\red_frequency.png
+2026-03-28 16:26:08,022 - INFO - 图表已保存: charts\blue_frequency.png
+2026-03-28 16:26:15,970 - INFO - 图表已保存: charts\red_trend.png
+2026-03-28 16:26:21,254 - INFO - 图表已保存: charts\blue_trend.png
+2026-03-28 16:26:22,747 - INFO - 图表已保存: charts\red_missing.png
+2026-03-28 16:26:23,943 - INFO - 图表已保存: charts\blue_missing.png
+2026-03-28 16:26:23,943 - INFO - 成功生成 6 个图表
+2026-03-28 16:26:24,290 - INFO - 成功注册中文字体: C:/Windows/Fonts/simsun.ttc
+2026-03-28 16:26:24,292 - INFO - 开始生成PDF报告...
+2026-03-28 16:26:32,510 - INFO - PDF报告已生成: ssq_analysis_report.pdf
+2026-03-28 16:27:23,117 - INFO - 使用模拟数据模式
+2026-03-28 16:27:23,118 - INFO - 生成 500 期模拟数据用于演示
+2026-03-28 16:27:23,149 - INFO - 分析器初始化完成，共 500 期数据
+2026-03-28 16:27:23,156 - INFO - 开始生成图表...
+2026-03-28 16:27:25,361 - INFO - 图表已保存: charts\red_frequency.png
+2026-03-28 16:27:26,555 - INFO - 图表已保存: charts\blue_frequency.png
+2026-03-28 16:27:31,949 - INFO - 图表已保存: charts\red_trend.png
+2026-03-28 16:27:36,105 - INFO - 图表已保存: charts\blue_trend.png
+2026-03-28 16:27:38,814 - INFO - 图表已保存: charts\red_missing.png
+2026-03-28 16:27:40,410 - INFO - 图表已保存: charts\blue_missing.png
+2026-03-28 16:27:40,411 - INFO - 成功生成 6 个图表
+2026-03-28 16:27:40,650 - INFO - 成功注册中文字体: C:/Windows/Fonts/simsun.ttc
+2026-03-28 16:27:40,651 - INFO - 开始生成PDF报告...
+2026-03-28 16:27:48,612 - INFO - PDF报告已生成: ssq_analysis_report.pdf
