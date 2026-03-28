@@ -1,0 +1,15 @@
+2026-03-28 16:28:50,441 - INFO - 生成 500 期模拟数据用于演示
+2026-03-28 16:28:50,450 - INFO - 成功生成 500 期模拟数据
+2026-03-28 16:28:50,466 - INFO - 开始生成图表...
+2026-03-28 16:28:53,192 - INFO - 图表已保存: charts\red_frequency.png
+2026-03-28 16:28:54,719 - INFO - 图表已保存: charts\blue_frequency.png
+2026-03-28 16:29:00,707 - INFO - 图表已保存: charts\red_trend.png
+2026-03-28 16:29:04,641 - INFO - 图表已保存: charts\blue_trend.png
+2026-03-28 16:29:06,400 - INFO - 图表已保存: charts\red_missing.png
+2026-03-28 16:29:08,048 - INFO - 图表已保存: charts\blue_missing.png
+2026-03-28 16:29:08,048 - INFO - 成功生成 6 个图表
+2026-03-28 16:29:08,048 - INFO - 找到中文字体: C:/Windows/Fonts/simsun.ttc
+2026-03-28 16:29:08,287 - INFO - 成功注册中文字体: C:/Windows/Fonts/simsun.ttc
+2026-03-28 16:29:08,288 - INFO - 开始生成PDF报告...
+2026-03-28 16:29:16,586 - INFO - PDF报告已生成: ssq_analysis_report.pdf
+2026-03-28 16:29:16,591 - INFO - 分析完成，耗时 27.0 秒
